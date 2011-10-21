@@ -1,1 +1,17 @@
-#summary How to use the prepackaged DaCruzer robot  #labels Featured    *Table of Contents*   <wiki:toc max_depth="3" />    = 1.0 Download =    Please download the latest distribution of !DaCruzer from the [http://code.google.com/p/robocode-pmj-dacruzer/downloads/list Downloads] page.    Then, unzip the distribution.     = 2.0 Install =    To install the prepackaged !DaCruzer robot, find the file named pmj.!DaCruzer`_`{version}.jar in the distribution (where {version} is the version of the robot).     Move that file to the robots/ directory of your Robocode installation.     You're done!
+#summary Steps to download and install this robot into Robocode.
+#labels Featured
+
+*Table of Contents* 
+<wiki:toc max_depth="3" />
+
+= 1.0 Download =
+
+Download the latest distribution of robocode-hyh-beater from the [http://code.google.com/p/robocode-hyh-beater/downloads/list Downloads] page.
+
+Unzip the distribution in a directory of your choice.
+
+= 2.0 Install =
+
+To install the robocode-hyh-beater robot into your Robocode system, find the file named hyh.beater`_`{version}.jar in the distribution.
+
+Move that file to the robocode/robots/ directory of your Robocode installation.
