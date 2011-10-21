@@ -1,4 +1,4 @@
-=1.0 Prerequisites=¶You must have Ant 1.8.1 and Java 1.6 installed.We also provide .project and .classpath files for Eclipse, although that IDE is not mandatory for development. 
+=1.0 Prerequisites=You must have Ant 1.8.1 and Java 1.6 installed.We also provide .project and .classpath files for Eclipse, although that IDE is not mandatory for development. 
 2.0 Installation¶2.1 Run Ant to install libraries required for compilation¶After checkout out the sources from SVN, or else downloading the distribution, you must start by invoking "ant" at the top level of the project: 
 % antThis will do the following: •Download Ivy. 
 •Use Ivy to download packages required for compilation, including JUnit and Robocode. 
