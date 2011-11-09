@@ -1,0 +1,6 @@
+- <project name="jenkins" default="compile" xmlns:ivy="antlib:org.apache.ivy.ant">
+
+  <description>Top-level build file for the Robocode PMJ DaCruzer system. The default target compiles the system.</description> 
+<target name="jenkins" depends="verify">
+<\targer>
+  </project>
