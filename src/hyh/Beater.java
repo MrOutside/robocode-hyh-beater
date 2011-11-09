@@ -61,17 +61,18 @@ public class Beater extends Robot {
    }
  }
   /**
-   * @return angle - a bearing
+   * @return ang- a bearing
    * @param angle - a bearing
    */
   double normalizeBearing(double angle) {
-    while (angle >  180) {
-      angle -= 360;
+    double ang = angle;
+    while (ang >  180) {
+      ang -= 360;
     }
-    while (angle < -180) {
-      angle += 360;
+    while (ang < -180) {
+      ang += 360;
     }
-    return angle;
+    return ang;
   }
   /**
    * Fires at any robots it finds with a power that is based on distance from target.
