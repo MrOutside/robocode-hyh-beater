@@ -1,0 +1,1 @@
+Basically, the strategy of movement for this robot is to move in a diamond shape. It goes to the left middle point, then goes to upper middle, then goes to right wall middle, finally goes to the bottom middle and move in this same strategy again and again. Once the robot scan an enemy, it will fire based on the distance.
